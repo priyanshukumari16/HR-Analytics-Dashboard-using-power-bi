@@ -1,13 +1,12 @@
 # HR-Analytics-Dashboard-using-power-bi
-
-Objective
+**Objective**
 Developed an interactive HR Analytics Dashboard to identify key factors influencing employee attrition and provide data-driven insights for improving workforce retention and HR decision-making
 
 Throughout this project, I've had the chance to:
-Dive deep into HR data to uncover valuable insights.
-Develop interactive dashboards to visualize key HR metrics.
-Provide data-driven recommendations for strategic decision-making.
-Steps followed:
+1. Dive deep into HR data to uncover valuable insights.
+2.Develop interactive dashboards to visualize key HR metrics.
+3.Provide data-driven recommendations for strategic decision-making.
+**Steps followed:**
 1. Data Gathering:
 Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
 2. Data cleaning:
@@ -20,7 +19,7 @@ This new column is further used for creating different KPI's and charts.Then cre
 4. Data analysis:
 Analysis involves the creation of a range of visual representations, including bar charts, key performance indicators (KPIs), table charts, pie charts, and other relevant visualizations.
 These tools are utilized to gain insights and present data in a comprehensive and easily understandable manner.
-Key Questions of the Dashboard :
+**Key Questions of the Dashboard :**
 What is the Total Employee Count ?
 What is the employee's Average Age & Average Salary ?
 What is the Attrition Count of men and women ?
@@ -30,14 +29,14 @@ What is the Gender distribution ?
 Which Education Field has maximum employees ?
 Which Business Travel has maximum employees ?
 
-Learned about:
+**Learned about:**
 Calculated Field: To Calculate Attrition Rate & Active Employees
 Matrix table: To show Job Satisfaction rating
 Donut chart and Pie Chart
 Bar Chart and Cluster chart 📊
 KPI(Key Performing Indicators) and Slicer.
 Filters: Used to filter data according to different education fields.
-Key Insights Summary:
+**Key Insights Summary:**
 Total Employees: The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
 Attrition Analysis: A total of 237 employees left the organization. Among them, 150 were male, and 87 were female, indicating a higher attrition rate among males.
 Departmental Attrition: The Research and Development Department experienced the highest attrition rate at 56.13%, suggesting potential areas for improvement in employee retention strategies in this department.
@@ -45,6 +44,6 @@ Education Field Impact: Employees in the life sciences field had the highest att
 Job Role Affected: The sales role had the highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
 Education wise Attrition: The attrition rate of High School is 18.24% which is maximum among the other education.
 Attrition Rate by Gender for Different Age Group: The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups
-DASHBOARD:
+**DASHBOARD:**
 
 
